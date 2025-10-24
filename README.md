@@ -7,3 +7,8 @@ This project presents an executive-level analysis and set of recommendations for
 - **Dataset:** Retailer sales and profitability data (Assignment 1 - eCommerce Retailer.xlsx)
 - **Tools:** Tableau for data visualization; PowerPoint for executive summary
 - **Task:** Build an interactive Tableau dashboard to reveal key business trends, and deliver a concise 5-slide executive presentation with concrete recommendations for driving future growth.
+
+![Strategy Dashboard](Strategy%20Dashboard.png)
+
+
+
